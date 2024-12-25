@@ -8,10 +8,10 @@ mlflow server --backend-store-uri sqlite:///mlflow.db --default-artifact-root ./
 
 2. Run the main pipeline:
 ```bash
-python main.py
+python ./app/main.py
 ```
 
 3. Register the new model:
 ```bash
-python deployment_mlflow.py
+python ./app/deployment_mlflow.py
 ```
