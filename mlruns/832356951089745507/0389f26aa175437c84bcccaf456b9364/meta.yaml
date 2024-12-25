@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/specki/projects/mlcourse/homework/mlruns/832356951089745507/0389f26aa175437c84bcccaf456b9364/artifacts
+end_time: 1735158979483
+entry_point_name: ''
+experiment_id: '832356951089745507'
+lifecycle_stage: active
+run_id: 0389f26aa175437c84bcccaf456b9364
+run_name: peaceful-mole-316
+run_uuid: 0389f26aa175437c84bcccaf456b9364
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735158974988
+status: 3
+tags: []
+user_id: specki

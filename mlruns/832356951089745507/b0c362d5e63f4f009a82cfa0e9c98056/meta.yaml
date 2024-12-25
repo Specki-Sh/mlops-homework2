@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/specki/projects/mlcourse/homework/mlruns/832356951089745507/b0c362d5e63f4f009a82cfa0e9c98056/artifacts
+end_time: 1735159094707
+entry_point_name: ''
+experiment_id: '832356951089745507'
+lifecycle_stage: active
+run_id: b0c362d5e63f4f009a82cfa0e9c98056
+run_name: overjoyed-hog-335
+run_uuid: b0c362d5e63f4f009a82cfa0e9c98056
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735159088963
+status: 3
+tags: []
+user_id: specki

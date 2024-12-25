@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/specki/projects/mlcourse/homework/mlruns/832356951089745507/ba7eeb7a9e26452a9ba67b029517142f/artifacts
+end_time: 1735161964479
+entry_point_name: ''
+experiment_id: '832356951089745507'
+lifecycle_stage: active
+run_id: ba7eeb7a9e26452a9ba67b029517142f
+run_name: receptive-robin-418
+run_uuid: ba7eeb7a9e26452a9ba67b029517142f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735161964022
+status: 3
+tags: []
+user_id: specki

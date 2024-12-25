@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/specki/projects/mlcourse/homework/mlruns/832356951089745507/4e7da9dbbe5941a4a60b7ece32609962/artifacts
+end_time: 1735162090605
+entry_point_name: ''
+experiment_id: '832356951089745507'
+lifecycle_stage: active
+run_id: 4e7da9dbbe5941a4a60b7ece32609962
+run_name: tasteful-fowl-53
+run_uuid: 4e7da9dbbe5941a4a60b7ece32609962
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735162078738
+status: 3
+tags: []
+user_id: specki

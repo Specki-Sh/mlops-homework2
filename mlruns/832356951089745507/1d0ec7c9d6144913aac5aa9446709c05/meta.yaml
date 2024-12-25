@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/specki/projects/mlcourse/homework/mlruns/832356951089745507/1d0ec7c9d6144913aac5aa9446709c05/artifacts
+end_time: 1735160405585
+entry_point_name: ''
+experiment_id: '832356951089745507'
+lifecycle_stage: active
+run_id: 1d0ec7c9d6144913aac5aa9446709c05
+run_name: shivering-skink-229
+run_uuid: 1d0ec7c9d6144913aac5aa9446709c05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735160395413
+status: 3
+tags: []
+user_id: specki

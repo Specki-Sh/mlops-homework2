@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/specki/projects/mlcourse/homework/mlruns/832356951089745507/a39eeb4acca44d9ea594a36359c73810/artifacts
+end_time: 1735160425401
+entry_point_name: ''
+experiment_id: '832356951089745507'
+lifecycle_stage: active
+run_id: a39eeb4acca44d9ea594a36359c73810
+run_name: wistful-croc-666
+run_uuid: a39eeb4acca44d9ea594a36359c73810
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735160424366
+status: 3
+tags: []
+user_id: specki

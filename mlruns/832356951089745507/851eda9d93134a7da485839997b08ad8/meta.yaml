@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/specki/projects/mlcourse/homework/mlruns/832356951089745507/851eda9d93134a7da485839997b08ad8/artifacts
+end_time: 1735160470338
+entry_point_name: ''
+experiment_id: '832356951089745507'
+lifecycle_stage: active
+run_id: 851eda9d93134a7da485839997b08ad8
+run_name: employee_access_pipeline
+run_uuid: 851eda9d93134a7da485839997b08ad8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735160395339
+status: 4
+tags: []
+user_id: specki

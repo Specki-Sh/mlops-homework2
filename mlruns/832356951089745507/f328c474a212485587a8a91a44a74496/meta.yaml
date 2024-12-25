@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/specki/projects/mlcourse/homework/mlruns/832356951089745507/f328c474a212485587a8a91a44a74496/artifacts
+end_time: 1735162115384
+entry_point_name: ''
+experiment_id: '832356951089745507'
+lifecycle_stage: active
+run_id: f328c474a212485587a8a91a44a74496
+run_name: capricious-sow-945
+run_uuid: f328c474a212485587a8a91a44a74496
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735162107633
+status: 3
+tags: []
+user_id: specki

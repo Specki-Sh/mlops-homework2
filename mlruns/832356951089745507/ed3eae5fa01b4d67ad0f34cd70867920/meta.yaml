@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/specki/projects/mlcourse/homework/mlruns/832356951089745507/ed3eae5fa01b4d67ad0f34cd70867920/artifacts
+end_time: 1735161527989
+entry_point_name: ''
+experiment_id: '832356951089745507'
+lifecycle_stage: active
+run_id: ed3eae5fa01b4d67ad0f34cd70867920
+run_name: crawling-dove-805
+run_uuid: ed3eae5fa01b4d67ad0f34cd70867920
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735161522454
+status: 3
+tags: []
+user_id: specki

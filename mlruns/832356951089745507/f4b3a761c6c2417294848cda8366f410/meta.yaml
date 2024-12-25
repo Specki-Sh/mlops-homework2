@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/specki/projects/mlcourse/homework/mlruns/832356951089745507/f4b3a761c6c2417294848cda8366f410/artifacts
+end_time: 1735161561805
+entry_point_name: ''
+experiment_id: '832356951089745507'
+lifecycle_stage: active
+run_id: f4b3a761c6c2417294848cda8366f410
+run_name: thundering-robin-608
+run_uuid: f4b3a761c6c2417294848cda8366f410
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735161551714
+status: 3
+tags: []
+user_id: specki

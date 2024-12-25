@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/specki/projects/mlcourse/homework/mlruns/832356951089745507/ecf92160090c4f0a99ee979018911d55/artifacts
+end_time: 1735161596290
+entry_point_name: ''
+experiment_id: '832356951089745507'
+lifecycle_stage: active
+run_id: ecf92160090c4f0a99ee979018911d55
+run_name: painted-carp-507
+run_uuid: ecf92160090c4f0a99ee979018911d55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735161580700
+status: 3
+tags: []
+user_id: specki

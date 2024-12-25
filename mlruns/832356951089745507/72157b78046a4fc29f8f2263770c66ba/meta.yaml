@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/specki/projects/mlcourse/homework/mlruns/832356951089745507/72157b78046a4fc29f8f2263770c66ba/artifacts
+end_time: 1735161248396
+entry_point_name: ''
+experiment_id: '832356951089745507'
+lifecycle_stage: active
+run_id: 72157b78046a4fc29f8f2263770c66ba
+run_name: handsome-whale-20
+run_uuid: 72157b78046a4fc29f8f2263770c66ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735161238556
+status: 3
+tags: []
+user_id: specki

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/specki/projects/mlcourse/homework/mlruns/832356951089745507/c689693fba8044bd811f7f5b6a04b793/artifacts
+end_time: 1735158993561
+entry_point_name: ''
+experiment_id: '832356951089745507'
+lifecycle_stage: active
+run_id: c689693fba8044bd811f7f5b6a04b793
+run_name: thoughtful-finch-833
+run_uuid: c689693fba8044bd811f7f5b6a04b793
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735158979486
+status: 3
+tags: []
+user_id: specki

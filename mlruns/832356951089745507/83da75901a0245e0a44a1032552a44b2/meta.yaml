@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/specki/projects/mlcourse/homework/mlruns/832356951089745507/83da75901a0245e0a44a1032552a44b2/artifacts
+end_time: 1735159026032
+entry_point_name: ''
+experiment_id: '832356951089745507'
+lifecycle_stage: active
+run_id: 83da75901a0245e0a44a1032552a44b2
+run_name: gentle-crow-467
+run_uuid: 83da75901a0245e0a44a1032552a44b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735159025643
+status: 3
+tags: []
+user_id: specki

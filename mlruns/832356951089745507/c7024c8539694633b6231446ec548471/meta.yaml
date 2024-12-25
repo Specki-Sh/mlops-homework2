@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/specki/projects/mlcourse/homework/mlruns/832356951089745507/c7024c8539694633b6231446ec548471/artifacts
+end_time: 1735159121859
+entry_point_name: ''
+experiment_id: '832356951089745507'
+lifecycle_stage: active
+run_id: c7024c8539694633b6231446ec548471
+run_name: fortunate-grub-896
+run_uuid: c7024c8539694633b6231446ec548471
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735159104503
+status: 3
+tags: []
+user_id: specki

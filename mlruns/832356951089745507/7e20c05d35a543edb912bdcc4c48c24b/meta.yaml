@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/specki/projects/mlcourse/homework/mlruns/832356951089745507/7e20c05d35a543edb912bdcc4c48c24b/artifacts
+end_time: 1735161580697
+entry_point_name: ''
+experiment_id: '832356951089745507'
+lifecycle_stage: active
+run_id: 7e20c05d35a543edb912bdcc4c48c24b
+run_name: indecisive-wasp-213
+run_uuid: 7e20c05d35a543edb912bdcc4c48c24b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735161571251
+status: 3
+tags: []
+user_id: specki

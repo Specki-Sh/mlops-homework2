@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/specki/projects/mlcourse/homework/mlruns/832356951089745507/a1ea5749054a42ebbf5b6502fd5c331b/artifacts
+end_time: 1735161493775
+entry_point_name: ''
+experiment_id: '832356951089745507'
+lifecycle_stage: active
+run_id: a1ea5749054a42ebbf5b6502fd5c331b
+run_name: efficient-smelt-101
+run_uuid: a1ea5749054a42ebbf5b6502fd5c331b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735161489859
+status: 3
+tags: []
+user_id: specki

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/specki/projects/mlcourse/homework/mlruns/832356951089745507/c3da9f7a61e04bf3b56c8348d4992cdb/artifacts
+end_time: 1735161964019
+entry_point_name: ''
+experiment_id: '832356951089745507'
+lifecycle_stage: active
+run_id: c3da9f7a61e04bf3b56c8348d4992cdb
+run_name: beautiful-mole-922
+run_uuid: c3da9f7a61e04bf3b56c8348d4992cdb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735161959742
+status: 3
+tags: []
+user_id: specki

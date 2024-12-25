@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/specki/projects/mlcourse/homework/mlruns/832356951089745507/ec17b4004fc0498e83f4fbb1ae146ca7/artifacts
+end_time: 1735161238554
+entry_point_name: ''
+experiment_id: '832356951089745507'
+lifecycle_stage: active
+run_id: ec17b4004fc0498e83f4fbb1ae146ca7
+run_name: placid-loon-307
+run_uuid: ec17b4004fc0498e83f4fbb1ae146ca7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735161224156
+status: 3
+tags: []
+user_id: specki

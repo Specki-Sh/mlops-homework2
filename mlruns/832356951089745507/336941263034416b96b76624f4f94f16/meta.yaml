@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/specki/projects/mlcourse/homework/mlruns/832356951089745507/336941263034416b96b76624f4f94f16/artifacts
+end_time: 1735159016922
+entry_point_name: ''
+experiment_id: '832356951089745507'
+lifecycle_stage: active
+run_id: 336941263034416b96b76624f4f94f16
+run_name: mysterious-swan-584
+run_uuid: 336941263034416b96b76624f4f94f16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735159014828
+status: 3
+tags: []
+user_id: specki

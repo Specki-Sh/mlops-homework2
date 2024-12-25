@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/specki/projects/mlcourse/homework/mlruns/832356951089745507/a7a77bccf56d4931b9b4e1d67d70316a/artifacts
+end_time: 1735161073338
+entry_point_name: ''
+experiment_id: '832356951089745507'
+lifecycle_stage: active
+run_id: a7a77bccf56d4931b9b4e1d67d70316a
+run_name: sassy-squirrel-631
+run_uuid: a7a77bccf56d4931b9b4e1d67d70316a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735161070088
+status: 3
+tags: []
+user_id: specki

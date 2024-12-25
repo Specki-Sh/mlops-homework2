@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/specki/projects/mlcourse/homework/mlruns/832356951089745507/da23e749a83f4098aa9b82ebda625ba8/artifacts
+end_time: 1735161030089
+entry_point_name: ''
+experiment_id: '832356951089745507'
+lifecycle_stage: active
+run_id: da23e749a83f4098aa9b82ebda625ba8
+run_name: illustrious-cod-546
+run_uuid: da23e749a83f4098aa9b82ebda625ba8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735161019654
+status: 3
+tags: []
+user_id: specki

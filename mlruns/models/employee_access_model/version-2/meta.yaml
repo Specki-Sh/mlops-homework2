@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1735161267380
+current_stage: None
+description: null
+last_updated_timestamp: 1735161267380
+name: employee_access_model
+run_id: 9dc5567c678248a2ab6c46d70562da53
+run_link: null
+source: file:///Users/specki/projects/mlcourse/homework/mlruns/832356951089745507/9dc5567c678248a2ab6c46d70562da53/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///Users/specki/projects/mlcourse/homework/mlruns/832356951089745507/9dc5567c678248a2ab6c46d70562da53/artifacts/model
+user_id: null
+version: 2

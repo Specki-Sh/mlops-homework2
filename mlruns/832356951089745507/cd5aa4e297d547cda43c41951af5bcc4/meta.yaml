@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/specki/projects/mlcourse/homework/mlruns/832356951089745507/cd5aa4e297d547cda43c41951af5bcc4/artifacts
+end_time: 1735159055320
+entry_point_name: ''
+experiment_id: '832356951089745507'
+lifecycle_stage: active
+run_id: cd5aa4e297d547cda43c41951af5bcc4
+run_name: blushing-shrike-652
+run_uuid: cd5aa4e297d547cda43c41951af5bcc4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735159043424
+status: 3
+tags: []
+user_id: specki

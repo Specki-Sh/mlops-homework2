@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/specki/projects/mlcourse/homework/mlruns/832356951089745507/4859d8670cc44f578aa4573cf7203a56/artifacts
+end_time: 1735162071073
+entry_point_name: ''
+experiment_id: '832356951089745507'
+lifecycle_stage: active
+run_id: 4859d8670cc44f578aa4573cf7203a56
+run_name: aged-elk-602
+run_uuid: 4859d8670cc44f578aa4573cf7203a56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735162063648
+status: 3
+tags: []
+user_id: specki

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/specki/projects/mlcourse/homework/mlruns/832356951089745507/05d5497ded704c78ab7e9886b8e9b21c/artifacts
+end_time: 1735161041041
+entry_point_name: ''
+experiment_id: '832356951089745507'
+lifecycle_stage: active
+run_id: 05d5497ded704c78ab7e9886b8e9b21c
+run_name: stylish-ram-473
+run_uuid: 05d5497ded704c78ab7e9886b8e9b21c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735161030091
+status: 3
+tags: []
+user_id: specki

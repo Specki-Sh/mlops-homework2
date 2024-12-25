@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/specki/projects/mlcourse/homework/mlruns/832356951089745507/2d32e8cd816f4c999c7ecd261b63a37a/artifacts
+end_time: 1735161142403
+entry_point_name: ''
+experiment_id: '832356951089745507'
+lifecycle_stage: active
+run_id: 2d32e8cd816f4c999c7ecd261b63a37a
+run_name: thoughtful-mule-750
+run_uuid: 2d32e8cd816f4c999c7ecd261b63a37a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735161128057
+status: 3
+tags: []
+user_id: specki

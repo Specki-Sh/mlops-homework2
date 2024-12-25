@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/specki/projects/mlcourse/homework/mlruns/832356951089745507/006b5f4513f74d8691124647ba21fdd9/artifacts
+end_time: 1735162050830
+entry_point_name: ''
+experiment_id: '832356951089745507'
+lifecycle_stage: active
+run_id: 006b5f4513f74d8691124647ba21fdd9
+run_name: ambitious-wasp-931
+run_uuid: 006b5f4513f74d8691124647ba21fdd9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735162036672
+status: 3
+tags: []
+user_id: specki

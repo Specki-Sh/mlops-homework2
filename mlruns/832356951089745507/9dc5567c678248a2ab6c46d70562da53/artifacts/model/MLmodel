@@ -1,0 +1,36 @@
+artifact_path: model
+flavors:
+  catboost:
+    catboost_version: 1.2.7
+    code: null
+    data: model.cb
+    model_type: CatBoostClassifier
+    save_format: cbm
+  python_function:
+    data: model.cb
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.catboost
+    python_version: 3.12.8
+mlflow_version: 2.19.0
+model_size_bytes: 23078103
+model_uuid: 7ad37445b5494a03867a5f4b9737839c
+run_id: 9dc5567c678248a2ab6c46d70562da53
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "long", "name": "RESOURCE", "required": true}, {"type": "long",
+    "name": "MGR_ID", "required": true}, {"type": "long", "name": "ROLE_ROLLUP_1",
+    "required": true}, {"type": "long", "name": "ROLE_ROLLUP_2", "required": true},
+    {"type": "long", "name": "ROLE_DEPTNAME", "required": true}, {"type": "long",
+    "name": "ROLE_TITLE", "required": true}, {"type": "long", "name": "ROLE_FAMILY_DESC",
+    "required": true}, {"type": "long", "name": "ROLE_FAMILY", "required": true},
+    {"type": "long", "name": "ROLE_CODE", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1,
+    2]}}]'
+  params: null
+utc_time_created: '2024-12-25 21:14:24.040678'

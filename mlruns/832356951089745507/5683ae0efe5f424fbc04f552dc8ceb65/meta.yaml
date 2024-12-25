@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/specki/projects/mlcourse/homework/mlruns/832356951089745507/5683ae0efe5f424fbc04f552dc8ceb65/artifacts
+end_time: 1735162017479
+entry_point_name: ''
+experiment_id: '832356951089745507'
+lifecycle_stage: active
+run_id: 5683ae0efe5f424fbc04f552dc8ceb65
+run_name: resilient-shrew-294
+run_uuid: 5683ae0efe5f424fbc04f552dc8ceb65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735162000033
+status: 3
+tags: []
+user_id: specki

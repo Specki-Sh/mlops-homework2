@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/specki/projects/mlcourse/homework/mlruns/832356951089745507/09c6b9b5f5dd4ac5930ccaf77f9a896f/artifacts
+end_time: 1735161983925
+entry_point_name: ''
+experiment_id: '832356951089745507'
+lifecycle_stage: active
+run_id: 09c6b9b5f5dd4ac5930ccaf77f9a896f
+run_name: lyrical-fowl-443
+run_uuid: 09c6b9b5f5dd4ac5930ccaf77f9a896f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735161977110
+status: 3
+tags: []
+user_id: specki

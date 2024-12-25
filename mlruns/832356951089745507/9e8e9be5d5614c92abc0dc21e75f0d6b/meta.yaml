@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/specki/projects/mlcourse/homework/mlruns/832356951089745507/9e8e9be5d5614c92abc0dc21e75f0d6b/artifacts
+end_time: 1735159088959
+entry_point_name: ''
+experiment_id: '832356951089745507'
+lifecycle_stage: active
+run_id: 9e8e9be5d5614c92abc0dc21e75f0d6b
+run_name: youthful-dolphin-809
+run_uuid: 9e8e9be5d5614c92abc0dc21e75f0d6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735159078159
+status: 3
+tags: []
+user_id: specki

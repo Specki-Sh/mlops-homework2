@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/specki/projects/mlcourse/homework/mlruns/832356951089745507/04cb6f8daa434ec2a7f8f7cdd39bb176/artifacts
+end_time: 1735161571249
+entry_point_name: ''
+experiment_id: '832356951089745507'
+lifecycle_stage: active
+run_id: 04cb6f8daa434ec2a7f8f7cdd39bb176
+run_name: classy-donkey-429
+run_uuid: 04cb6f8daa434ec2a7f8f7cdd39bb176
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735161561807
+status: 3
+tags: []
+user_id: specki

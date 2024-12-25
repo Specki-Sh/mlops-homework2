@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/specki/projects/mlcourse/homework/mlruns/832356951089745507/a61f1483b0334e4cb54a8079175c807d/artifacts
+end_time: 1735161210318
+entry_point_name: ''
+experiment_id: '832356951089745507'
+lifecycle_stage: active
+run_id: a61f1483b0334e4cb54a8079175c807d
+run_name: worried-cub-612
+run_uuid: a61f1483b0334e4cb54a8079175c807d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735161194416
+status: 3
+tags: []
+user_id: specki

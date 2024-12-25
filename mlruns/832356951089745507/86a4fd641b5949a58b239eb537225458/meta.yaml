@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/specki/projects/mlcourse/homework/mlruns/832356951089745507/86a4fd641b5949a58b239eb537225458/artifacts
+end_time: 1735162107631
+entry_point_name: ''
+experiment_id: '832356951089745507'
+lifecycle_stage: active
+run_id: 86a4fd641b5949a58b239eb537225458
+run_name: omniscient-rook-697
+run_uuid: 86a4fd641b5949a58b239eb537225458
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735162100123
+status: 3
+tags: []
+user_id: specki

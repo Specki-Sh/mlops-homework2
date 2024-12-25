@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/specki/projects/mlcourse/homework/mlruns/832356951089745507/6c9d4fec43fb4aa096a24db31730ee05/artifacts
+end_time: 1735161543623
+entry_point_name: ''
+experiment_id: '832356951089745507'
+lifecycle_stage: active
+run_id: 6c9d4fec43fb4aa096a24db31730ee05
+run_name: big-asp-387
+run_uuid: 6c9d4fec43fb4aa096a24db31730ee05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735161533786
+status: 3
+tags: []
+user_id: specki

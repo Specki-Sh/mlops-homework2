@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/specki/projects/mlcourse/homework/mlruns/832356951089745507/c0dcb4802e764aab9ad9e70146a9e38f/artifacts
+end_time: 1735159034291
+entry_point_name: ''
+experiment_id: '832356951089745507'
+lifecycle_stage: active
+run_id: c0dcb4802e764aab9ad9e70146a9e38f
+run_name: amusing-fish-601
+run_uuid: c0dcb4802e764aab9ad9e70146a9e38f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735159026034
+status: 3
+tags: []
+user_id: specki

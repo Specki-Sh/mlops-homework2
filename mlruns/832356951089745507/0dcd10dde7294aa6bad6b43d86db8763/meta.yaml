@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/specki/projects/mlcourse/homework/mlruns/832356951089745507/0dcd10dde7294aa6bad6b43d86db8763/artifacts
+end_time: 1735160434217
+entry_point_name: ''
+experiment_id: '832356951089745507'
+lifecycle_stage: active
+run_id: 0dcd10dde7294aa6bad6b43d86db8763
+run_name: victorious-whale-84
+run_uuid: 0dcd10dde7294aa6bad6b43d86db8763
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735160425404
+status: 3
+tags: []
+user_id: specki

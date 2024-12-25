@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/specki/projects/mlcourse/homework/mlruns/832356951089745507/4751d81b86424380847f93180c4971ae/artifacts
+end_time: 1735161194414
+entry_point_name: ''
+experiment_id: '832356951089745507'
+lifecycle_stage: active
+run_id: 4751d81b86424380847f93180c4971ae
+run_name: placid-snail-52
+run_uuid: 4751d81b86424380847f93180c4971ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735161174171
+status: 3
+tags: []
+user_id: specki

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/specki/projects/mlcourse/homework/mlruns/832356951089745507/253525ae25444074b944b5068590e672/artifacts
+end_time: 1735162122043
+entry_point_name: ''
+experiment_id: '832356951089745507'
+lifecycle_stage: active
+run_id: 253525ae25444074b944b5068590e672
+run_name: secretive-tern-475
+run_uuid: 253525ae25444074b944b5068590e672
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735162115386
+status: 3
+tags: []
+user_id: specki

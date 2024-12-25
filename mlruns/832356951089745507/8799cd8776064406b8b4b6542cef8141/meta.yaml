@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/specki/projects/mlcourse/homework/mlruns/832356951089745507/8799cd8776064406b8b4b6542cef8141/artifacts
+end_time: 1735162100121
+entry_point_name: ''
+experiment_id: '832356951089745507'
+lifecycle_stage: active
+run_id: 8799cd8776064406b8b4b6542cef8141
+run_name: rare-cub-143
+run_uuid: 8799cd8776064406b8b4b6542cef8141
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735162090608
+status: 3
+tags: []
+user_id: specki

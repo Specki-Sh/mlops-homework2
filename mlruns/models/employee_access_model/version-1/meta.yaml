@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1735160498917
+current_stage: None
+description: Employee access prediction model using CatBoost
+last_updated_timestamp: 1735160498919
+name: employee_access_model
+run_id: c7024c8539694633b6231446ec548471
+run_link: null
+source: file:///Users/specki/projects/mlcourse/homework/mlruns/832356951089745507/c7024c8539694633b6231446ec548471/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///Users/specki/projects/mlcourse/homework/mlruns/832356951089745507/c7024c8539694633b6231446ec548471/artifacts/model
+user_id: null
+version: 1
